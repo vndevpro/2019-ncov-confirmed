@@ -1,0 +1,12 @@
+[
+	{
+		date: 20200204,
+		global_confirmed: 20630,
+		global_new: 3241,
+		global_deaths: 426,
+		outside_china_confirm: 159,
+		outside_china_new: 6,
+		outside_china_deaths: 1,
+		countries: 24,
+	}
+]
