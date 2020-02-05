@@ -2,7 +2,7 @@
 JSON data about infected / resolved numbers in the globe
 
 Structure of data
-
+```
 [
   {
     date: date value in format yyyymmdd,
@@ -14,3 +14,4 @@ Structure of data
   {},
   {}
 ]
+```
