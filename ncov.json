@@ -8,5 +8,35 @@
 		outside_china_new: 6,
 		outside_china_deaths: 1,
 		countries: 24,
-	}
+	},
+	{
+		date: 20200203,
+		global_confirmed: 17391,
+		global_new: 2838,
+		global_deaths: 362,
+		outside_china_confirm: 153,
+		outside_china_new: 7,
+		outside_china_deaths: 1,
+		countries: 24,
+	},
+	{
+		date: 20200202,
+		global_confirmed: 14557,
+		global_new: 2604,
+		global_deaths: 304,
+		outside_china_confirm: 146,
+		outside_china_new: 14,
+		outside_china_deaths: 0,
+		countries: 24,
+	},
+	{
+		date: 20200201,
+		global_confirmed: 11953,
+		global_new: 2128,
+		global_deaths: 259,
+		outside_china_confirm: 132,
+		outside_china_new: 26,
+		outside_china_deaths: 0,
+		countries: 24,
+	}	
 ]
