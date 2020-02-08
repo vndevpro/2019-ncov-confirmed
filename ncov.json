@@ -1,5 +1,15 @@
 [
 	{
+		date: 20200207,
+		global_confirmed: 31481,
+		global_new: 3205,
+		global_deaths: 638,
+		outside_china_confirm: 270,
+		outside_china_new: 54,
+		outside_china_deaths: 1,
+		countries: 25,
+	},
+	{
 		date: 20200206,
 		global_confirmed: 28276,
 		global_new: 3722,
